@@ -49,6 +49,7 @@ python gui_version.py
 Contributions are welcome! Feel free to open an issue or submit a pull request for suggestions or improvements.        
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
